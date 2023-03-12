@@ -1,0 +1,14 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import model.Calculator;
+
+public class TestCalculator {
+
+	@Test
+	public void testAddition() {
+		assertEquals(15, Calculator.addition(10, 5), 0.01);
+	}
+
+}

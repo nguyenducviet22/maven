@@ -1,0 +1,7 @@
+import org.junit.Assert;
+
+public class TestHello {
+	public void testAbc() {
+		Assert.assertArrayEquals(null, null);
+	}
+}

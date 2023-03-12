@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\NGUYEN DUC VIET\eclipse-workspace4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1602905851.index
+\WebDemo\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3753558574.index
+\03. WebDemo\src\main\java
+C:\Users\NGUYEN DUC VIET\eclipse-workspace4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2663525847.index
+\CalculatorWeb\src\main\java
